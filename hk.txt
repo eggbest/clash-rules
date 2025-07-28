@@ -1,0 +1,4 @@
+payload:
+  - '.redotpay.com'
+  - '.appsflyersdk.com'
+  - '.zendesk.com'
