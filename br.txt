@@ -1,0 +1,2 @@
+payload:
+  - '.peer2profit.app'
