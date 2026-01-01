@@ -1,4 +1,10 @@
 payload:
-  - "DOMAIN,nextcloud.eggbest.net"
-  - "DOMAIN,alist.eggbest.net"
-  - "IP-CIDR,154.19.43.79/32"
+  - DOMAIN-SUFFIX,google.com
+  - DOMAIN-KEYWORD,google
+  - DOMAIN,ad.com
+  - SRC-IP-CIDR,192.168.1.201/32
+  - IP-CIDR,127.0.0.0/8
+  - GEOIP,CN
+  - DST-PORT,80
+  - SRC-PORT,7777
+  # MATCH is not necessary here
