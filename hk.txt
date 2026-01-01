@@ -1,5 +1,5 @@
 payload:
-  - '.redotpay.com'
-  - '.appsflyersdk.com'
-  - '.zendesk.com'
-  - '.binance.com'
+  - DOMAIN-SUFFIX,.redotpay.com
+  - DOMAIN-SUFFIX,.appsflyersdk.com
+  - DOMAIN-SUFFIX,.zendesk.com
+  - DOMAIN-SUFFIX,.binance.com
