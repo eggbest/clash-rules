@@ -1,2 +1,4 @@
 payload:
   - 'nextcloud.eggbest.net'
+  - 'alist.eggbest.net'
+  - '154.19.43.79'
