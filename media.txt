@@ -2,4 +2,5 @@ payload:
   - DOMAIN,nextcloud.eggbest.net
   - DOMAIN,alist.eggbest.net
   - IP-CIDR,154.19.43.79/32
-  
+
+
