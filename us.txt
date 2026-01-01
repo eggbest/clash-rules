@@ -1,2 +1,2 @@
 payload:
-  - 'google.com'
+  - DOMAIN,google.com
