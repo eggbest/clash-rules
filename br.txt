@@ -1,2 +1,2 @@
 payload:
-  - '.peer2profit.app'
+  - DOMAIN-SUFFIX,peer2profit.app
