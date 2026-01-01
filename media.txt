@@ -1,7 +1,5 @@
 payload:
-  # 域名规则需要加上 DOMAIN 或 DOMAIN-SUFFIX 前缀
   - DOMAIN,nextcloud.eggbest.net
   - DOMAIN,alist.eggbest.net
-  
-  # IP 规则需要加上 IP-CIDR 前缀，并且必须加子网掩码 /32
+  - IP-CIDR,154.19.43.79/32
   
