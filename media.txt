@@ -1,3 +1,3 @@
 payload:
-  - '.eggbest.net'
+  - 'nextcloud.eggbest.net'
   - 'alist.eggbest.net'
