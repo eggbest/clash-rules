@@ -1,2 +1,2 @@
 payload:
-  - 'cloudreve.eggbest.net'
+  - 'nextcloud.eggbest.net'
