@@ -1,4 +1,5 @@
 payload:
   - DOMAIN,nextcloud.eggbest.net
   - DOMAIN,alist.eggbest.net
+  - DOMAIN,jellyfin.eggbest.net
   - IP-CIDR,154.19.43.79/32
