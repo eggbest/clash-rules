@@ -1,5 +1,7 @@
 payload:
-  - DOMAIN,nextcloud.eggbest.net
+  - DOMAIN,plus.younoyes.com
+  - DOMAIN,v1.uhdnow.com
+  - DOMAIN,global.uhdnow.com
   - DOMAIN,alist.eggbest.net
   - DOMAIN,jellyfin.eggbest.net
   - IP-CIDR,154.19.43.79/32
