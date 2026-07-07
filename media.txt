@@ -1,6 +1,7 @@
 payload:
   - DOMAIN,plus.younoyes.com
   - DOMAIN,v1.uhdnow.com
+  - DOMAIN,v1-vod1.uhdnow.com
   - DOMAIN,global.uhdnow.com
   - DOMAIN,alist.eggbest.net
   - DOMAIN,jellyfin.eggbest.net
